@@ -35,7 +35,7 @@
  <h2 align="center">⚒️ Languages & Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,postgres,r,aws,vscode,github,selenium,pytorch,powershell" />
+    <img src="https://skillicons.dev/icons?i=python,postgres,r,aws,vscode,github,selenium,pytorch,powershell,anaconda" />
     <img src="https://skillicons.dev/icons?i=mongodb,java,mysql,flask,docker,tensorflow,html,css" /><br>
 </div>
 
