@@ -32,11 +32,21 @@
 
  <hr/>
 
- <h2 align="center">⚒️ Languages & Tools ⚒️</h2>
+ <h2 align="center"> Languages & Tools </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,postgres,r,aws,vscode,github,selenium,pytorch,powershell,anaconda,opencv,linux" />
     <img src="https://skillicons.dev/icons?i=sklearn,mongodb,java,mysql,flask,docker,tensorflow,html,css,sqlite,stackoverflow" /><br>
 </div>
 
- 
+ <br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rajaravindp/rajaravindp/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
