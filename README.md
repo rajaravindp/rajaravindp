@@ -7,6 +7,7 @@
 <h3 align="center"> Data Professional </h3>
 
 <br/>
+<p align="center" style="font-family: 'Times New Roman', Times, serif;">Data Professional</p>
 
 <div align="center">
     
