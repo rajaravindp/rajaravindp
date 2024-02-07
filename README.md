@@ -35,7 +35,7 @@
  <h2 align="center">⚒️ Languages & Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,postgres,r,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=python,postgres,r,langchain,vscode,github,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 
