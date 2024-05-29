@@ -12,7 +12,7 @@
     
  🔭 Currently working as a **Machine Learning Intern** at **Smart Data Solutions**
  
- 🌱 Currently passionate about **Developing Impactful LLM Applications for the Healthcare Industry**
+ 🌱 Deeply passionate about **Developing Impactful LLM Applications for the Healthcare Industry**
 
 💬 Ask me about **PyTorch, Langchain, Vectorstores, LLMs**
 
