@@ -10,7 +10,7 @@
 
 <div align="center">
     
- 🔭 Currently working as a **Machine Learning Intern** at **Smart Data Solutions**
+ 🔭 Currently working as a **Machine Learning Engineer** at **Skyovi**
  
  🌱 Deeply passionate about **developing impactful LLM applications**
 
