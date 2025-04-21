@@ -10,11 +10,9 @@
 
 <div align="center">
     
- 🔭 Currently working as a **Machine Learning Engineer** at **Skyovi**
- 
- 🌱 Deeply passionate about **developing impactful LLM applications**
-
-💬 Ask me about **PyTorch, Langchain, Vectorstores, LLMs**
+ Currently a **Generative AI Engineer** at **Infosys**
+ Data Professional with 4 years of experience in **telecom infrastructure planning**, **health process automation**, **enterprise analytics** and **software development** in general. 
+ Deeply passionate about **developing impactful Generative AI solutions**
 
  </div>
 
