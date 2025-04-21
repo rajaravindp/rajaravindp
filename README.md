@@ -10,9 +10,9 @@
 
 <div align="center">
     
- Currently a **Generative AI Engineer** at **Infosys**
- Data Professional with 4 years of experience in **telecom infrastructure planning**, **health process automation**, **enterprise analytics** and **software development** in general. 
- Deeply passionate about **developing impactful Generative AI solutions**
+ Currently a **Generative AI Engineer** at **Infosys** <br>
+ Data Professional with 4 years of experience in **telecom infrastructure planning**, **health process automation**, **enterprise analytics** and **software development** in general. <br>
+ Deeply passionate about **developing impactful Generative AI solutions** <br>
 
  </div>
 
